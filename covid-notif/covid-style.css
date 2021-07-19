@@ -1,0 +1,49 @@
+body{
+	margin:0px;
+	padding:0px;
+
+}
+.main{
+	border:1px solid white;
+	margin-top: 16vh;
+	background-image: url('https://www.mptourism.com/images/covidbg.jpg');
+	height:50vh;
+	width:100vw;
+	opacity:0.899;
+}
+.up{
+	margin:10% auto;
+	margin-bottom: 0px;
+	/*border:2px solid blue;*/
+	text-align: center;
+	height:40%;
+	width:50%;
+	color:white;
+	font-family: Times Now;
+	font-size: 40px;
+
+}
+.down{
+	margin:4% auto;
+	/*border:2px solid red;*/
+	justify-content: center;
+	display: flex;
+}
+ img{
+ 	margin:0px auto;
+ 	/*margin-top: 5%;*/
+
+	height:100%;
+	/*padding:20px;*/
+	width:100%;
+}
+.links{
+	/*border:2px solid blue;*/
+	margin:5px;
+	width:70%;
+	padding:20px;
+}
+li a{
+	text-decoration: none;
+	color:blue;
+}
